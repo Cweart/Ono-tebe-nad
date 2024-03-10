@@ -1,0 +1,7 @@
+.lots{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 74px 563px;
+    
+}
+
